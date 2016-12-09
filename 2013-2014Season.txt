@@ -1,0 +1,23 @@
+ 2013-2014 Regular Season
+ Oct 29, 2013 - April 16,2014
+
+ Oct 29
+ Magic - Pacers
+ GameID = 400488874
+
+ Feb 16
+ All Star Game
+ GameID = 400517994
+
+ Apr 16
+ Suns - Kings
+ GameID = 400490102
+ should be another game ending in-103 (Warriors-Nuggets) but no Play-by-Play available
+ total of 1230 games - 1 = 1229
+
+ 
+
+
+
+
+
